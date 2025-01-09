@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="full_sub_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="full_sub" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="70999290fs"></ZoomStartTime>
+      <ZoomEndTime time="70999294fs"></ZoomEndTime>
+      <Cursor1Time time="11000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="156"></NameColumnWidth>
+      <ValueColumnWidth column_width="88"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="5" />
+   <wvobject fp_name="/full_sub/A" type="logic">
+      <obj_property name="ElementShortName">A</obj_property>
+      <obj_property name="ObjectShortName">A</obj_property>
+      <obj_property name="CustomSignalColor">#00FF00</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/full_sub/B" type="logic">
+      <obj_property name="ElementShortName">B</obj_property>
+      <obj_property name="ObjectShortName">B</obj_property>
+   </wvobject>
+   <wvobject fp_name="/full_sub/Bin" type="logic">
+      <obj_property name="ElementShortName">Bin</obj_property>
+      <obj_property name="ObjectShortName">Bin</obj_property>
+   </wvobject>
+   <wvobject fp_name="/full_sub/D" type="logic">
+      <obj_property name="ElementShortName">D</obj_property>
+      <obj_property name="ObjectShortName">D</obj_property>
+   </wvobject>
+   <wvobject fp_name="/full_sub/Bout" type="logic">
+      <obj_property name="ElementShortName">Bout</obj_property>
+      <obj_property name="ObjectShortName">Bout</obj_property>
+   </wvobject>
+</wave_config>
