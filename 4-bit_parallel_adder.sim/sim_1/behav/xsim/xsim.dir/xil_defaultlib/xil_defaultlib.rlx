@@ -1,0 +1,7 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/nages/4-bit_parallel_adder/4-bit_parallel_adder.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/nages/4-bit_parallel_adder/4-bit_parallel_adder.srcs/sources_1/new/parallel_8_bit_adder.v,1695215629,verilog,,C:/Users/nages/4-bit_parallel_adder/4-bit_parallel_adder.srcs/sources_1/new/parallel_adder.v,,parallel_8_bit_adder,,,,,,,,
+C:/Users/nages/4-bit_parallel_adder/4-bit_parallel_adder.srcs/sources_1/new/parallel_adder.v,1695214439,verilog,,C:/Users/nages/4-bit_parallel_adder/4-bit_parallel_adder.srcs/sources_1/new/parallel_8_bit_adder.v,,full_adder;half_adder;parallel_4_bit_adder,,,,,,,,
